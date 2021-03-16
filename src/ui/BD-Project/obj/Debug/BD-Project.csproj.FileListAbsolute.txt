@@ -1,0 +1,35 @@
+c:\users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\bin\Debug\BD-Project.exe.config
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\bin\Debug\BD-Project.exe
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\bin\Debug\BD-Project.pdb
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD-Project.csprojResolveAssemblyReference.cache
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD_Project.Properties.Resources.resources
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD-Project.csproj.GenerateResource.Cache
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD-Project.exe
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD-Project.pdb
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD_Project.RequisicaoAnalise.resources
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD_Project.HistorialClinico.resources
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD_Project.InfoPaciente.resources
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD_Project.Pacientes.resources
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD_Project.Medico.resources
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD_Project.Consulta.resources
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD_Project.DescricaoAnalise.resources
+C:\Users\joaop\onedrive\documentos\visual studio 2015\Projects\BD-Project\BD-Project\obj\Debug\BD_Project.GravidezInfo.resources
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\bin\Debug\BD-Project.exe.config
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD-Project.exe
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD-Project.pdb
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\bin\Debug\BD-Project.exe
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\bin\Debug\BD-Project.pdb
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD-Project.csprojResolveAssemblyReference.cache
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD_Project.Consulta.resources
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD_Project.DescricaoAnalise.resources
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD_Project.GravidezInfo.resources
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD_Project.HistorialClinico.resources
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD_Project.InfoPaciente.resources
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD_Project.Medico.resources
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD_Project.Pacientes.resources
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD_Project.Properties.Resources.resources
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD_Project.RequisicaoAnalise.resources
+C:\Users\filip\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD-Project.csproj.GenerateResource.Cache
+C:\Users\Hummer\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\bin\Debug\BD-Project.exe.config
+C:\Users\Hummer\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD-Project.exe
+C:\Users\Hummer\Google Drive\UA\2A2S\BD\Projeto\Fase2\BD-Project\BD-Project\obj\Debug\BD-Project.pdb
