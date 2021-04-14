@@ -1,6 +1,13 @@
 # ObsGynDB
 A Relational Database for an Obstetrics and Gynaecology Clinic
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-success)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/OS-Windows-blue)
+![](https://img.shields.io/badge/Made%20with-CSharp-blue)
+![](https://img.shields.io/badge/Made%20with-SQLServer-blue)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description
 
 This project allows the deployment of a clinical system to manage consultations for obstetrics and gynaecology.
